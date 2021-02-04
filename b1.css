@@ -1,0 +1,33 @@
+img{
+    width: 60%;
+    border-radius: 70%;
+  
+}
+body{
+
+}
+.title{
+    padding: 5% 10%;
+    background-color: #ffee93;
+}
+h1{
+    font-family:'Montserrat', sans-serif;
+    color:black;
+    
+    line-height: 1.5;
+}
+.navbar-custom{
+    background-color: #ffee93;}
+.nav-link{
+    color:black;
+    margin: 10px;
+    font-size: 20px;
+    font-family:'Montserrat', sans-serif; ;
+}
+a{
+    font-family:'Montserrat', sans-serif;
+    color: black;
+}
+a:hover{
+    color: black;
+}
